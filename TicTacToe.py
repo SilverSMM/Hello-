@@ -5,7 +5,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import Application, CallbackQueryHandler, CommandHandler
 from uuid import uuid4
 
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "7921827548:AAEuNRCe7y0CErqtJwm2_atc4oIwmL37hG0"
 
 application = Application.builder().token(TOKEN).build()
 
